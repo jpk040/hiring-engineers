@@ -5,4 +5,4 @@ Here's a screenshot of three hosts with the Datadog agent installed:
 - docker-desktop
 - vagrant (ubuntu 18.04)
 
-![](images/Screen Shot 2020-06-13 at 2.20.07 PM.png)
+![](images/Screen Shot 2020-06-13 at 2.33.22 PM.png)
